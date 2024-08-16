@@ -1,7 +1,5 @@
-# TITULO DO PROJETO
+Template 
 
-descrição do projeto.....
+Um template criado com dependências pré-configuradas para agilizar o trabalho de criação de novos projetos.
+Utilizando Gulp
 
-## Tecnologias usadas
-
--[x] HTML -[x] CSS -[x] JavaScript -[x] Gulp -[x] SASS
